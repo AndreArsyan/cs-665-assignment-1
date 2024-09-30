@@ -10,7 +10,7 @@
 Create a Coffee Machine that can produce several beverages option and can customize the add-ons such as Milk and Sugar.
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+https://github.com/AndreArsyan/cs-665-assignment-1
 
 # Running The Program
 1. `cd /src/main/java/edu/bu/met/cs665`
